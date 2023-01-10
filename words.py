@@ -1,0 +1,10 @@
+word_list =['Afghanistan', 'Algeria', 'Angola', 'Antarctica', 'Argentina', 'Australia', 'Austria', 'Bahamas', 'Belgium', 'Belize', 'Bolivia',
+ 'Botswana', 'Brazil', 'Cambodia', 'Cameroon', 'Canada', 'Central', 'African', 'Republic', 'Chad', 'Chile', 'China', 'Columbia', 
+ 'Congo', 'Costa', 'Rica', 'Denmark', 'Dominican', 'Republic', 'Ecuador', 'Egypt', 'El', 'Salvador', 'Ethiopia', 'Fiji', 'France', 
+ 'Germany', 'Ghana', 'Greece', 'Guatemala', 'Haiti', 'Honduras', 'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Israel',
+  'Italy', 'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kuwait', 'Lebanon', 'Libya', 'Madagascar', 'Malawi', 'Malaysia', 
+  'Mexico', 'Morocco', 'Mozambique', 'Netherlands', 'New', 'Zealand', 'Nicaragua', 'Nigeria', 'Norway', 'Pakistan', 'Panama', 'Papua', 
+  'New', 'Guinea', 'Paraguay', 'Peru', 'Philippines', 'Poland', 'Portugal', 'Romania', 'Russia', 'Saint', 'Lucia', 'Saudi', 'Arabia', 
+  'Sierra', 'Leone', 'Singapore', 'South', 'Africa', 'SouthKorea', 'Spain', 'SriLanka', 'Sudan', 'Swaziland', 'Sweden', 
+  'Switzerland', 'Syria', 'Tanzania', 'Thailand', 'Turkey', 'Uganda', 'Ukraine', 'United', 'Kingdom', 'United', 'States', 'Uruguay',
+   'Venezuela', 'Venezuela', 'Vietnam', 'Zambia', 'Zimbabwe']
